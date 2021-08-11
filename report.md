@@ -8,9 +8,9 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [Первый](https://github.com/DmitriiLife/java2/issues/1)
-* [Второй](https://github.com/DmitriiLife/java2/issues/2)
-* [Третий](https://github.com/DmitriiLife/java2/issues/3)
+* [issues](https://github.com/DmitriiLife/java2/issues/1)
+* [issues](https://github.com/DmitriiLife/java2/issues/2)
+* [issues](https://github.com/DmitriiLife/java2/issues/3)
 
 Описание процесса тестирования:
 
